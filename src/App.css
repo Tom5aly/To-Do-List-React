@@ -1,0 +1,12 @@
+#title {
+  font-family: "Times New Roman", Times, serif;
+}
+#title1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 3rem;
+  color: rgb(199, 55, 55);
+  text-shadow: 3px 3px 5px #3b5cb6;
+}
+body {
+  background-color: rgb(218, 232, 238);
+}
